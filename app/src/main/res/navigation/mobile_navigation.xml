@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.myspace.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.example.myspace.ui.gallery.GalleryFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_planets_solarSystem"
+        android:name="com.example.myspace.ui.planets_solarSystem.PlanetsSolarSystem"
+        android:label="@string/menu_planets_solar_system"
+        tools:layout="@layout/fragment_planets_solar_system"/>
+
+    <fragment
+        android:id="@+id/nav_mks_online"
+        android:name="com.example.myspace.ui.mks_online.MksOnline"
+        android:label="@string/menu_mks_online"
+        tools:layout="@layout/fragment_mks_online" />
+
+    <fragment
+        android:id="@+id/nav_about"
+        android:name="com.example.myspace.ui.about_us.AboutUsFragment"
+        android:label="About"
+        tools:layout="@layout/fragment_about_us" />
+
+</navigation>

@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MySpace</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Space news</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_planets_solar_system">Planets solar system</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="mercury">mercury</string>
+    <string name="venus">venus</string>
+    <string name="earth">earth</string>
+    <string name="mars">mars</string>
+    <string name="jupiter">jupiter</string>
+    <string name="saturn">saturn</string>
+    <string name="uranus">uranus</string>
+    <string name="neptune">neptune</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_mks_online">MKS Online</string>
+    <string name="image">image</string>
+    <string name="name_site">Name site</string>
+    <string name="title">Title</string>
+    <string name="published_at">Published at</string>
+    <string name="information_ustream">Information display is carried out on two panels. The top panel displays the world map and the current position of the ISS. The bottom panel displays the \"Google Maps\" map service with which you can view the tracking map online in more detail.</string>
+    <string name="about">"Space news" is based on the collection of news data from "Nasa", "Space", "ESA" and etc.\nPage Editor: Yudjin Foggy\nHeadquarters "Space news": Minsk</string>
+    <string name="about_us">About us</string>
+    <string name="sun">sun</string>
+    <string name="x">X</string>
+    <string name="circle">circle</string>
+</resources>
